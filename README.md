@@ -26,7 +26,7 @@ This e-commerce database consists of multiple tables with well-defined relations
 ### **ER Diagram**  
 Below is the ER diagram for this e-commerce database:  
 
-![ER Diagram](er_diagram.pdf)  
+![ER Diagram](er_diagram.png)
 
 ## 🚀 How to Run  
 1. Install SQLite (`sqlite3`) if not already installed.  
@@ -37,5 +37,5 @@ Below is the ER diagram for this e-commerce database:
 
 ## 📂 Files Included
 - ecommerce_schema.sql → Creates the database structure
-- er_diagram.pdf → Visual representation of the database
+- er_diagram.png → Visual representation of the database
 
