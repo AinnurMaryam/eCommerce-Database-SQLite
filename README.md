@@ -35,7 +35,7 @@ Below is the ER diagram for this e-commerce database:
    sqlite3 ecommerce.db < ecommerce_schema.sql
 3. The database is now set up with empty tables. You can start inserting data and running queries!
 
-📂 Files Included
-ecommerce_schema.sql → Creates the database structure
-er_diagram.pdf → Visual representation of the database
+## 📂 Files Included
+- ecommerce_schema.sql → Creates the database structure
+- er_diagram.pdf → Visual representation of the database
 
